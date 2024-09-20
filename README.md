@@ -13,7 +13,8 @@ The application employs Tkinter for its graphical user interface, providing real
 The UI supports different scan modes (full drive or specific directory) and allows configuration of scan parameters like the timeout duration. 
 Results are logged in real-time to a text file, including detailed error messages and a summary of the scan's outcome. 
 
-Ex.Log. -----------
+Ex.Log. 
+-----------
 
 Error reading C:\DumpStack.log: [Errno 13] Permission denied: 'C:\\DumpStack.log'
 Error reading C:\DumpStack.log.tmp: [Errno 13] Permission denied: 'C:\\DumpStack.log.tmp'
