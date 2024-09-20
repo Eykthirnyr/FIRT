@@ -13,24 +13,6 @@ The application employs Tkinter for its graphical user interface, providing real
 The UI supports different scan modes (full drive or specific directory) and allows configuration of scan parameters like the timeout duration. 
 Results are logged in real-time to a text file, including detailed error messages and a summary of the scan's outcome. 
 
-Ex.Log. 
------------
-
-Error reading C:\DumpStack.log: [Errno 13] Permission denied: 'C:\\DumpStack.log'
-Error reading C:\DumpStack.log.tmp: [Errno 13] Permission denied: 'C:\\DumpStack.log.tmp'
-Error reading C:\pagefile.sys: [Errno 13] Permission denied: 'C:\\pagefile.sys'
-Error reading C:\swapfile.sys: [Errno 13] Permission denied: 'C:\\swapfile.sys'
-Path scanned: C:\
-
-Summary:
-Total files scanned: 7757
-Readable files: 7752
-Unreadable files: 4
-Skipped files: 0
-Time taken: 0:02:18
-
------------
-
 This log file's path is configurable and defaults to the script's directory if not specified. 
 Upon completion or user interruption, the app finalizes the scan, writes a summary to the log, and can reset itself by restarting the entire process through the subprocess module.
 
