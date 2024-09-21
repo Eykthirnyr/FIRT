@@ -1,4 +1,4 @@
-FIRT - Clément GHANEME - 2024/09
+#FIRT 
 
 The File Integrity & Readability Tester (FIRT) is a Python-based application designed for IT professionals and system administrators to assess file integrity across storage devices. 
 
@@ -24,3 +24,5 @@ FIRT was created to fill this gap, offering a detailed analysis of file integrit
 Disclaimer: This software is provided 'as is' without any guarantees or warranty. 
 While it is designed to aid in assessing file integrity and readability, I cannot be held responsible for any loss, damage, or data corruption that may occur through its use. 
 Users are advised to exercise caution and ensure they have proper backups before using this tool on critical systems.
+
+Clément GHANEME - 2024/09
