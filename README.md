@@ -1,4 +1,4 @@
-# FIRT 
+# FIRT - File Integrity & Readability Tester 
 
 The File Integrity & Readability Tester (FIRT) is a Python-based application designed for IT professionals and system administrators to assess file integrity across storage devices. 
 
