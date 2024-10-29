@@ -25,4 +25,8 @@ Disclaimer: This software is provided 'as is' without any guarantees or warranty
 While it is designed to aid in assessing file integrity and readability, I cannot be held responsible for any loss, damage, or data corruption that may occur through its use. 
 Users are advised to exercise caution and ensure they have proper backups before using this tool on critical systems.
 
+## Screenshot - Application GUI
+
+![GUI](FIRT.png)
+
 Clément GHANEME - 2024/09
